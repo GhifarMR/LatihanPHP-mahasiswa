@@ -1,4 +1,4 @@
-
+```
 CREATE DATABASE LatihanPHP;
 
 USE LatihanPHP;
@@ -10,3 +10,5 @@ CREATE TABLE mahasiswa (
     Kota VARCHAR(40),
     JK CHAR(1)
 );
+
+```
