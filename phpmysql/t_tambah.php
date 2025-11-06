@@ -16,6 +16,6 @@ $result = mysqli_query($koneksi, $sql);
 if ($result) {
     echo "Data berhasil disimpan!";
 } else {
-    echo "Gagal menyimpan data: " . mysqli_error($koneksi);
+    echo "Gagal menyimpan data: ";
 }
 ?>
