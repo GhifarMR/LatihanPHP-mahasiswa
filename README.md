@@ -1,3 +1,5 @@
+DATABASE
+
 ```
 CREATE DATABASE LatihanPHP;
 ```
